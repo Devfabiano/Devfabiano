@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devfabiano
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning fullstack java
+- 🌱 I’m currently learning PHP Web
 - 📫 How to reach me ...
 
 <!---
